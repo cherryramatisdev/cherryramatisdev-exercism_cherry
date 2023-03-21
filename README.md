@@ -1,2 +1,2 @@
-# exercism_rust
-Exercisms made in rust
+# Exercism
+My exercism journey
